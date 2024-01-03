@@ -1,0 +1,21 @@
+C:\Users\mrsol\Desktop\AAST\Term 5\Advanced Programming\Trivea Questions\Trivea Questions\bin\Debug\Trivea Questions.exe.config
+C:\Users\mrsol\Desktop\AAST\Term 5\Advanced Programming\Trivea Questions\Trivea Questions\bin\Debug\Trivea Questions.exe
+C:\Users\mrsol\Desktop\AAST\Term 5\Advanced Programming\Trivea Questions\Trivea Questions\bin\Debug\Trivea Questions.pdb
+C:\Users\mrsol\Desktop\AAST\Term 5\Advanced Programming\Trivea Questions\Trivea Questions\obj\Debug\Trivea Questions.csproj.AssemblyReference.cache
+C:\Users\mrsol\Desktop\AAST\Term 5\Advanced Programming\Trivea Questions\Trivea Questions\obj\Debug\Trivea Questions.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrsol\Desktop\AAST\Term 5\Advanced Programming\Trivea Questions\Trivea Questions\obj\Debug\Trivea Questions.csproj.CoreCompileInputs.cache
+C:\Users\mrsol\Desktop\AAST\Term 5\Advanced Programming\Trivea Questions\Trivea Questions\obj\Debug\Trivea Questions.exe
+C:\Users\mrsol\Desktop\AAST\Term 5\Advanced Programming\Trivea Questions\Trivea Questions\obj\Debug\Trivea Questions.pdb
+C:\Users\mrsol\Desktop\AAST\Term 5\Advanced Programming\Trivea Questions1\Trivea Questions\obj\Debug\Trivea Questions.csproj.AssemblyReference.cache
+C:\Users\mrsol\Desktop\AAST\Term 5\Advanced Programming\Trivea Questions1\Trivea Questions\obj\Debug\Trivea Questions.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrsol\Desktop\AAST\Term 5\Advanced Programming\Trivea Questions1\Trivea Questions\obj\Debug\Trivea_Questions.Properties.Resources.resources
+C:\Users\mrsol\Desktop\AAST\Term 5\Advanced Programming\Trivea Questions1\Trivea Questions\obj\Debug\Trivea Questions.csproj.GenerateResource.cache
+C:\Users\mrsol\Desktop\AAST\Term 5\Advanced Programming\Trivea Questions1\Trivea Questions\obj\Debug\Trivea Questions.csproj.CoreCompileInputs.cache
+C:\Users\mrsol\Desktop\AAST\Term 5\Advanced Programming\Trivea Questions1\Trivea Questions\obj\Debug\Trivea Questions.exe
+C:\Users\mrsol\Desktop\AAST\Term 5\Advanced Programming\Trivea Questions1\Trivea Questions\obj\Debug\Trivea Questions.pdb
+C:\Users\mrsol\Desktop\AAST\Term 5\Advanced Programming\Trivea Questions1\Trivea Questions\bin\Debug\Trivea Questions.exe.config
+C:\Users\mrsol\Desktop\AAST\Term 5\Advanced Programming\Trivea Questions1\Trivea Questions\bin\Debug\Trivea Questions.exe
+C:\Users\mrsol\Desktop\AAST\Term 5\Advanced Programming\Trivea Questions1\Trivea Questions\bin\Debug\Trivea Questions.pdb
+C:\Users\mrsol\Desktop\AAST\Term 5\Advanced Programming\Trivea Questions1\Trivea Questions\obj\Debug\Trivea_Questions.Game.resources
+C:\Users\mrsol\Desktop\AAST\Term 5\Advanced Programming\Trivea Questions1\Trivea Questions\obj\Debug\Trivea_Questions.Create_a_player.resources
+C:\Users\mrsol\Desktop\AAST\Term 5\Advanced Programming\Trivea Questions1\Trivea Questions\obj\Debug\Trivea_Questions.Que.resources
